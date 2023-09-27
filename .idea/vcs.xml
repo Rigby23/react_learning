@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/01-primeros-pasos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-review-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-use-state" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-use-effect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-formularios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07-rutas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09-use-ref" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10-memo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11-layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12-use-reduce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/13-context" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/films-proyect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio" vcs="Git" />
+  </component>
+</project>
